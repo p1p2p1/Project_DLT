@@ -1,5 +1,15 @@
 ## K-디지털 트레이닝 프로젝트
 
+## 프로젝트 주제
+- 생활 환경에 따른 노인 건강 분석 및 정책 제공 서비스
+
+## 조명
+DLT(Desired Life Time)
+
+## 조원
+# 1팀 : 유정민(조장), 박의범
+# 2팀 : 박초윤(팀장), 이연지, 한수지
+
 ## 사용 기술 스택
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">

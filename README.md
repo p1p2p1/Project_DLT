@@ -3,8 +3,7 @@
 ## 프로젝트 주제
 - 생활 환경에 따른 노인 건강 분석 및 정책 제공 서비스
 
-## 조명
-DLT(Desired Life Time)
+# 조명 : DLT(Desired Life Time)
 
 ## 조원
 - 1팀 : 유정민(조장), 박의범
@@ -33,7 +32,6 @@ DLT(Desired Life Time)
 </div>
 
 ## Features
-
 
 
 

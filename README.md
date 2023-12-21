@@ -31,7 +31,14 @@
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## Features
+## 구성
+<div>
+ 1. 프로젝트 기획서
+ 2. 개발 스케쥴표
+ 3. 요구사항 명세서, 분석서
+ 4. 화면설계서
+ 5. 빅데이터 분석서
+</div>
 
 
 

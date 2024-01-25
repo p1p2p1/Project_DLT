@@ -1,0 +1,27 @@
+2022년 생명표 보도자료 -> 통계청(KOSIS)
+
+주요_인구지표_성비_인구성장률_인구구조_부양비_등____전국_20231214161143-> 통계청(KOSIS)
+
+사망원인_104항목__성_연령_5세_별_사망자수__사망률_20231214161707 -> 통계청(KOSIS)
+
+지역별 인구수 -> 통계청(KOSIS)
+
+2013 ~ 2022년 서울, 전남 지역, 성별 사망 원인 -> 통계청(KOSIS)
+
+서울, 전남 흡연율, 스트레스 인지율(국민 건강보험, 2022 지역별 의료이용 통계연보) - 흡연율, 스트레스 수치
+
+서울, 전남 GRDP(통계청(지역소득)) - 경제수준
+
+서울, 전남 기대수명 - 공공데이터포털(국민건강보험공단,2012 ~ 2021
+
+기대 수명 - 국민건강보험공단_지역별 기대수명지표(공공데이터포털, https://www.data.go.kr/data/15039778/fileData.do)
+
+흡연율 - 출처 : 질병관리청,「지역사회건강조사」원자료분석(https://gsis.kwdi.re.kr/statHtml/statHtml.doorgId=338&tblId=DT_GIABRM16_001)
+
+스트레스 인지율 - 출처 : 통계청(https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_H_MENTAL_STRESS&vw_cd=MT_ZTITLE&list_id=F_001_001_007&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+
+고혈압, 당뇨병 - 출처 : 국민건강보험공단_당뇨병의료이용률(공공데이터포털, https://www.data.go.kr/data/15064610/fileData.do)
+
+사망률 - 출처 : 「인구동향조사」 통계청(KOSIS, https://kosis.kr/statHtml/statHtml.do?orgId=177&tblId=DT_11702_N001&vw_cd=MT_ZTITLE&list_id=117_11702_A01_011&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+
+

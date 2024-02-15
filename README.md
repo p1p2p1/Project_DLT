@@ -10,7 +10,7 @@
 
 ## 사용 기술 스택
 
-<hr>
+
 ### 적용 중인 기술
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
@@ -38,6 +38,7 @@
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!-- Linux -->
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <!-- AWS -->
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <!-- React.js -->
 </div>
 
 ## 구성

@@ -12,7 +12,7 @@
 
 ### 적용 중인 기술
 <div align = "center">
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> //자바
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- 자바 -->
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> //서블릿
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> //JSP
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> //오라클

@@ -14,10 +14,10 @@
 ### 적용 중인 기술
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Servlet -->
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- JSP -->
+ <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
+ <img src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=Servlet&logoColor=white"> <!-- Servlet -->
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- Oracle DB -->
- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <!-- git -->
+ 
 
 
  <br>
@@ -29,6 +29,7 @@
 
  <br>
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <!-- tomcat9 -->
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <!-- git -->
 </div>
  
 

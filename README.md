@@ -14,8 +14,8 @@
 ### 적용 중인 기술
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
- <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
- <img src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=Servlet&logoColor=white"> <!-- Servlet -->
+ <img src="https://img.shields.io/badge/JSP-ff7f00?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
+ <img src="https://img.shields.io/badge/Servlet-ff0000?style=for-the-badge&logo=Servlet&logoColor=white"> <!-- Servlet -->
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- Oracle DB -->
  
 

@@ -10,6 +10,7 @@
 
 ## 사용 기술 스택
 
+<hr>
 ### 적용 중인 기술
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->

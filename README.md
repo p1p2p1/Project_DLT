@@ -1,7 +1,7 @@
 ## K-디지털 트레이닝 프로젝트
 
 ## 프로젝트 주제
-- 생활 환경에 따른 노인 기대 수명 및 만족도 분석 서비스
+- 생활 환경에 따른 노인 기대 수명 및 질병 정보 제공 서비스
 
 # 팀명 : DLT(Desired Life Time)
 
@@ -9,8 +9,8 @@
  1차 - 유정민(팀장), 박의범, 박초윤, 이연지 <br>
  2차 - 유정민(팀장), 박의범, 박초윤, 이연지 <br>
  3차 - 유정민
+ 
 ## 사용 기술 스택
-
 
 ### 적용 중인 기술
 <div align = "center">
@@ -18,6 +18,9 @@
  <img src="https://img.shields.io/badge/JSP-ff7f00?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
  <img src="https://img.shields.io/badge/Servlet-ff0000?style=for-the-badge&logo=Servlet&logoColor=white"> <!-- Servlet -->
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- Oracle DB -->
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring MVC -->
+ <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
  
 
 
@@ -31,19 +34,20 @@
  <br>
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <!-- tomcat9 -->
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <!-- git -->
+ <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!-- Linux -->
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <!-- AWS -->
+ <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <!-- Docker -->
 </div>
  
 
 ### 적용 예정 기술
 <div align = "center">
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring MVC -->
- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!-- Linux -->
- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <!-- AWS -->
+
+
 
  <br>
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <!-- React.js -->
- <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <!-- Docker -->
+ 
 
 </div>
 

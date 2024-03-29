@@ -43,9 +43,7 @@
 ### 적용 예정 기술
 <div align = "center">
 
-
-
- <br>
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo-Flask&logoColor=white"> <!-- Flask -->
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <!-- React.js -->
  
 

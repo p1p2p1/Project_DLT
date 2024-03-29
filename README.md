@@ -15,14 +15,14 @@
 ### 적용 중인 기술
 <div align = "center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
  <img src="https://img.shields.io/badge/JSP-ff7f00?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
  <img src="https://img.shields.io/badge/Servlet-ff0000?style=for-the-badge&logo=Servlet&logoColor=white"> <!-- Servlet -->
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- Oracle DB -->
+
+ <br>
  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring MVC -->
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
- 
-
 
  <br>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML5 -->

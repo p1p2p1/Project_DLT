@@ -22,7 +22,7 @@
 
  <br>
  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring MVC -->
- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
+
 
  <br>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML5 -->
@@ -45,6 +45,7 @@
 
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo-Flask&logoColor=white"> <!-- Flask -->
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <!-- React.js -->
+ <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- Spring Boot -->
  
 
 </div>
